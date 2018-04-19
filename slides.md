@@ -196,7 +196,7 @@ Kevin Lynch, _The Image of the City_
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="video/pente3.mp4" data-background-video-loop="loop" data-background-size="cover"-->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<iframe width="1000" height="600" src="http://internet-atlas.net/img-web/relief4.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<!-- .slide: data-background-video="video/relief4.mp4" data-background-video-loop="loop" data-background-size="contain"-->
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <img style="background-color:white" src="img/relief33.svg"
 	width="450" height="450"></img>
